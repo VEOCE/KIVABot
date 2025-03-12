@@ -1,4 +1,4 @@
-# KIVA Network BOT
+# KIVA Network
 KIVA Network BOT
 
 - Register Here : [Kiva Network](https://kivanet.com/register.html?code=B7Z790)
